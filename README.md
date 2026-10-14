@@ -9,7 +9,7 @@ A small, honest **NLP toolkit for Bangla (Bengali) text** written in Python: tex
 It is built as a learning and portfolio project with a **Responsible AI** mindset: every score is labelled with its limits and the sentiment model can say "I am not sure".
 
 ## Features
-
+Live : https://banglanlp-lab-project-f4vvtsvvwytpsogb22cvfy.streamlit.app/
 | Feature | What it does | Code |
 |---|---|---|
 | **Text cleaning** | Unicode (NFC) normalisation, removes URLs / HTML / e-mails / emojis / punctuation (incl. `।`), digit conversion (০-৯ ⇄ 0-9), zero-width character handling | `src/preprocessing.py` |
